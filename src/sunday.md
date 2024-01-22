@@ -43,9 +43,36 @@ right-most one usually).
 Be cautious when touching the cameras in the winter because static electricity may reset the cameras.
 Always discharge yourself on a nearby metal object.
 
+## The third frontal camera
+
+The eagle-eyed viewer may notice that there are 3 HDMI cables running into the video mixer, but there are
+only 2 cameras at the back. There is a camera on top of the wooden piano in the front. You can control the
+angle the camera is pointing with the 3rd remote (the remote with all the batteries on display). You can
+also control the magnification of the camera. The remote can control the camera in ideal conditions:
+
+- The camera's IR sensors are facing towards you
+- There is clear line-of-sight between the remote's IR emitter and the camera's IR sensors
+
 # Zoom
 
+On the off chance that you also have to control the Zoom meeting. The laptop that we will be using is the
+one that is currently stored in the Sunday School cabinet beside the printer (Cathay Pacific lanyard). It
+is in the third drawer counting from the top.
+
+1. Laptop
+2. Power cable
+3. USB to ethernet dongle
+
+The PIN is the same PIN for Cantonese ministry login.
+
 - When users enter the room, be sure to greet them as an usher would
+
+> Existing issue: if the laptop enters a Zoom meeting when the desktop computer livestreams, and when the
+> laptop and desktop computers are both on the same switch (i.e. the laptop via the USB to ethernet dongle),
+> there's a high chance that the livestream on YouTube's side fails. In such cases, use WiFi for laptop
+> connectivity.
+
+In general, use WiFi to connect the laptop to the internet.
 
 # Troubleshooting
 
@@ -72,3 +99,9 @@ You will only be able to troubleshoot when internet returns.
 3. Check that we are sending packets to YouTube by checking stream status on YouTube
 4. Send the new stream link in Whatsapp
 5. Redo the Zoom procedure
+
+## No video from 3rd frontal camera
+
+1. Check that the frontal camera is powered
+2. Press the `sync` button on the HDMI/ethernet bridge
+3. Press the `sync` button on the ethernet/HDMI bridge
