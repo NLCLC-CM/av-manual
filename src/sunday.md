@@ -105,3 +105,23 @@ You will only be able to troubleshoot when internet returns.
 1. Check that the frontal camera is powered
 2. Press the `sync` button on the HDMI/ethernet bridge
 3. Press the `sync` button on the ethernet/HDMI bridge
+
+## Laggy system
+
+This could be caused by pure chance, and is usually diagnosed at the setup phase. The following are some
+ways this lag could be mitigated, ordered from least disruptive to most disruptive. Only try them if you
+absolutely have to.
+
+1. Reduce the number of PowerPoint files open at once
+2. Close the browser
+3. Restart OBS
+4. Restart the computer
+
+## OBS cannot pick up audio/video
+
+Probably caused by a driver not getting detected. These instructions will disrupt the livestream.
+
+1. Unplug/replug the video mixer USB
+2. Restart OBS
+
+The audio comes from a LAN cable, and I have no clue how it works.
