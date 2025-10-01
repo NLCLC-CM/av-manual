@@ -83,8 +83,8 @@ Usage | Preset range (inclusive)
 ---|---
 Reserved | 1-10
 Cantonese | 30-39
-English | 40-49
-Mandarin | 50-59
+English | 20-29
+Mandarin | 10-19
 
 Numbers outside these ranges are free-for-all.
 
