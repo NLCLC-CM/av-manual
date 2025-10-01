@@ -10,3 +10,7 @@
 # Operations
 
 - [Audio](./audio.md)
+
+# Architecture
+
+- [LAN PTZ](./lan-ptz.md)

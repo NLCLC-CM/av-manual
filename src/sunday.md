@@ -8,7 +8,7 @@ This entire process can be done by 1 person in 10 minutes if there are no outsta
 
 ## Procedure
 
-- [Set cameras](#cameras)
+- [Set cameras](#camcorder)
 - Start presenting the powerpoint
     - Download this Sunday's powerpoint
     - Start presenting the powerpoint
@@ -28,30 +28,65 @@ This entire process can be done by 1 person in 10 minutes if there are no outsta
     - Screenshare the livestream, taking care to also stream the audio and check the box that says
       to stream in "video mode"
 
-# Cameras
-
-There are pieces of sticky tape on both cameras, but the settings to change are the following:
+# Camcorder
 
 - Settings -> CTRL for HDMI -> Off
 - Settings -> Demo Mode -> Off
 - Settings -> Power Save -> Off
 - Photos -> Facial Recognition -> Off
 
-These settings will already be mostly set on the camera that doesn't completely reset itself (the
-right-most one usually).
-
 Be cautious when touching the cameras in the winter because static electricity may reset the cameras.
 Always discharge yourself on a nearby metal object.
 
-## The third frontal camera
+# Camera 2
 
-The eagle-eyed viewer may notice that there are 3 HDMI cables running into the video mixer, but there are
-only 2 cameras at the back. There is a camera on top of the wooden piano in the front. You can control the
-angle the camera is pointing with the 3rd remote (the remote with all the batteries on display). You can
-also control the magnification of the camera. The remote can control the camera in ideal conditions:
+The second camera used to be another, higher-quality camcorder, similar to the one mentioned in the
+[previous section](#camcorder). Now it is a PTZ camera with 3x zoom. To control it you can use the remote
+(the silver remote with all batteries on display).
 
-- The camera's IR sensors are facing towards you
-- There is clear line-of-sight between the remote's IR emitter and the camera's IR sensors
+# Camera 4
+
+As of Monday 29 September 2025, a PTZ camera has been installed directly next to the large TV monitor at
+the back, which is directly above the doorway. It is powered by a Power-over-Ethernet (PoE) switch atop the AV
+cabinet, and should thus always be powered. There are 3 ways to control it:
+
+1. Via the remote control
+2. Via the PTZ controller
+3. Via the web portal directly
+
+See the [design](./lan-ptz) for the complete system design and rationale.
+
+## PTZ controller
+
+The PTZ controller must be returned to the AV cabinet after use. It is powered by a PoE LAN line that
+should be located near the computer monitors.
+
+1. Take PTZ controller out of AV cabinet and place to the right of ATEM mini
+2. Connect ethernet line to PTZ controller
+3. Wait a couple of seconds for the system to start up
+4. Check that you are connected to the right network by pressing `CAM 1` and using the joystick to control
+   the camera
+
+There are different ways to control the camera.
+
+**Joystick.** This controls the camera directly.
+
+**Presets.** Press `CALL` button and then input the preset number (1-255), followed by the `ENTER` key.
+This will cause the camera to move to a certain preset. To set a preset, use the joystick to move the
+camera to where you want to preset your camera angle, then press `PRESET`, followed by the preset number
+(1-255), followed by the `ENTER` key.
+
+Different ministries have dominion over different ranges of presets, so do not overwrite other ministries'
+presets.
+
+Usage | Preset range (inclusive)
+---|---
+Reserved | 1-10
+Cantonese | 30-39
+English | 40-49
+Mandarin | 50-59
+
+Numbers outside these ranges are free-for-all.
 
 # Zoom
 
