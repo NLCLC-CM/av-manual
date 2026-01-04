@@ -5,9 +5,18 @@ This entire process can be done by 1 person in 5 minutes if there are no outstan
 ## Prerequisites
 
 - Phone and earphones
+- A high degree of familiarity with AV equipment (relative to Saturday)
+
+## Arriving at your station
+
+AV operators typically arrive at their stations 10 minutes before start (since MM only ends 10 minutes
+before start).
 
 ## Procedure
 
+### Start-up
+
+- (If required) Use [Saturday's start-up procedure](./saturday#start-up)
 - Start presenting the powerpoint
     - Download this Sunday's powerpoint
     - Start presenting the powerpoint
@@ -20,12 +29,18 @@ This entire process can be done by 1 person in 5 minutes if there are no outstan
     - Send livestream link to Whatsapp
     - Continue to monitor the livestream via your phone and earphones
 - (Optional) stream audio check
+    - Tap each microphone and listen for the (delayed) echoes on your phone, with the stream open
 - (Not your duties) Start [Zoom](#zoom)
     - Enter the Zoom room with the given room ID and password (pick from dropdown)
     - Open YouTube and navigate to the livescreen
     - Wait for the host to grant screen-share permissions
     - Screenshare the livestream, taking care to also stream the audio and check the box that says
       to stream in "video mode"
+
+### Shut-down
+
+- (Optional) Bring all levels down
+- (If required) Use [Saturday's shutdown procedure](./saturday#shut-down)
 
 # Camera 1
 
