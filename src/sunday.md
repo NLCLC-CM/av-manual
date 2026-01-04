@@ -1,6 +1,6 @@
 # Sunday setup
 
-This entire process can be done by 1 person in 10 minutes if there are no outstanding issues.
+This entire process can be done by 1 person in 5 minutes if there are no outstanding issues.
 
 ## Prerequisites
 
@@ -8,7 +8,6 @@ This entire process can be done by 1 person in 10 minutes if there are no outsta
 
 ## Procedure
 
-- [Set cameras](#camcorder)
 - Start presenting the powerpoint
     - Download this Sunday's powerpoint
     - Start presenting the powerpoint
@@ -21,30 +20,14 @@ This entire process can be done by 1 person in 10 minutes if there are no outsta
     - Send livestream link to Whatsapp
     - Continue to monitor the livestream via your phone and earphones
 - (Optional) stream audio check
-- Start [Zoom](#zoom)
+- (Not your duties) Start [Zoom](#zoom)
     - Enter the Zoom room with the given room ID and password (pick from dropdown)
     - Open YouTube and navigate to the livescreen
     - Wait for the host to grant screen-share permissions
     - Screenshare the livestream, taking care to also stream the audio and check the box that says
       to stream in "video mode"
 
-# Camcorder
-
-- Settings -> CTRL for HDMI -> Off
-- Settings -> Demo Mode -> Off
-- Settings -> Power Save -> Off
-- Photos -> Facial Recognition -> Off
-
-Be cautious when touching the cameras in the winter because static electricity may reset the cameras.
-Always discharge yourself on a nearby metal object.
-
-# Camera 2
-
-The second camera used to be another, higher-quality camcorder, similar to the one mentioned in the
-[previous section](#camcorder). Now it is a PTZ camera with 3x zoom. To control it you can use the remote
-(the silver remote with all batteries on display).
-
-# Camera 4
+# Camera 1
 
 As of Monday 29 September 2025, a PTZ camera has been installed directly next to the large TV monitor at
 the back, which is directly above the doorway. It is powered by a Power-over-Ethernet (PoE) switch atop the AV
@@ -84,9 +67,15 @@ Usage | Preset range (inclusive)
 Reserved | 1-10
 Cantonese | 30-39
 English | 20-29
-Mandarin | 10-19
+Mandarin | 110-119
 
 Numbers outside these ranges are free-for-all.
+
+# Camera 2
+
+The second camera used to be another, higher-quality camcorder, similar to the one mentioned in the
+[previous section](#camcorder). Now it is a PTZ camera with 3x zoom. To control it you can use the remote
+(the silver remote with all batteries on display).
 
 # Zoom
 
